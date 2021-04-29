@@ -1,0 +1,4 @@
+[core]
+    remote = dvc-remote
+['remote "dvc-remote"']
+    url = /mnt/c/Users/rakes/PycharmProjects/mlopsws/dvc_storage
